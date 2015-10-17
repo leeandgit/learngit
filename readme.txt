@@ -6,5 +6,5 @@ Creating a new branch is quick AND simple.
 no ff
 vim vim 
 what are you doing ?
-
+这个是VI编辑器么,和VIM是一样的用法!
 
